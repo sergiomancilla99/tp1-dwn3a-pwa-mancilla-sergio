@@ -1,0 +1,39 @@
+body {
+    background-color: #caf0f8;
+}
+.borde {
+    border: 1px solid black;
+}
+#btnBuscar {
+    width: 100%;
+    background-color: #023e8a;
+    border: 0;
+    color: #FCFFFC;
+    font-weight: bold;
+}
+
+ul li{
+    list-style: none;
+}
+.datos-clima,
+.mapa{
+    display: none;
+}
+.datos-clima{
+    background-color: #00b4d8;
+
+}
+
+.label-ciudad {
+    color: #03045e;
+}
+
+.bg-temp{
+    background-color: #48cae4;
+}
+#mapa {
+    width: 100%;
+}
+/*
+paleta de colores https://coolors.co/03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8
+*/
